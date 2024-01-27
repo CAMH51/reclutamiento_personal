@@ -1,0 +1,30 @@
+.bt{
+    border: none !important;
+    border-radius: 5px !important;
+    width: 250px !important;
+    font-size: 20px !important;
+}
+
+.bt-success{
+    background-color: #621132 !important;
+    color: #fff !important;
+}
+
+.bt-primary{
+    background-color: #285c4d !important;
+    color: #fff !important;
+}
+
+.bt-primary:hover{
+    color: #b38e5d !important;
+}
+
+.bt-success:hover{
+    color: #b38e5d !important;
+}
+
+.accordion-button {
+    background-color: #9d2449 !important;
+    color:#fff !important;
+    font-weight: 600 !important;
+}
